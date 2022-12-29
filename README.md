@@ -34,3 +34,37 @@
 
 <+ Instalar wollok + JAVA developer kit>
 
+# Clase 2 | 29/12/2022
+
+## Diagrama UML
+
+* Que es UML(Lenguaje Unificado de Modelado)? --> fue creado para forjar un lenguaje de modelado visual.
+
+### Visibilidad
+* la visibilidad permite saber si los atributos y metodos pueden ser accedidas desde afuera de la clase. 
+* Tipo de visibilidad mas usado -> Privado(-) , Publico (+) y Protegido (#)
+
+### Sobrecarga
+* Que es la sobrecarga de operaciones? -> Es la aparicion de metodos de una misma clase que se llaman igual, pero realizan acciones diferentes.
+
+### Relaciones Simples
+* Que son las relaciones simples? -> Se producen cuando una clase se relaciona con otra clase. La relacion es Unica.
+
+### Encapsulamiento
+* ¿ Que es el encapsulamiento? -> Es el ocultamiento del estado de un objeto. El estado(atributo) podra accederse unicamente a traves de sus operaciones(Metodos).
+
+### Setters y Getters
+
+* ¿Que son los setters? Metodos para setear un valor, un atributo
+* ¿Que son los getters? Metodos para mostrar un valor, un atributo
+
+### Constructor
+
+* ¿Que es un constructor? -> Los objetos son construidos a partir de una clase.
+
+### Herencia
+* Herencia es la capacidad de una entidad/clase heredar las propiedades de la clase Padre.
+
+### Multiplicidad
+
+
